@@ -1,0 +1,8 @@
+environment: development
+http_port: 8081
+grpc_port: 
+auth_secret: 
+database_uri: postgres://postgres:super369@localhost:5432/fleet_track_mgmt
+redis_uri: 
+redis_password:
+redis_db: 
